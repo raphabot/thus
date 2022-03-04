@@ -3,3 +3,4 @@ ds-sdk-mini
 smartcheck-sdk-mini
 cc-sdk-mini
 
+pyyaml>=5.4 # not directly required, pinned by Snyk to avoid a vulnerability
